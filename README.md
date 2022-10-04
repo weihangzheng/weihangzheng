@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[personal site](https://weihangzheng.github.io/personal-site/about)
-[linkedin] (https://www.linkedin.com/in/weihang-zheng/)
+[website](https://weihangzheng.github.io/personal-site/about)
+[linkedin](https://www.linkedin.com/in/weihang-zheng/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
